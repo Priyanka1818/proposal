@@ -1,5 +1,5 @@
 # Proposal For the Class Remainder
-## Schedule & sprints are set by the GDP semesters (about every 2-weeks = a sprint)
+## Schedule & sprints are set for the GDP semesters (about every 2-weeks = a sprint)
 
 ### GDP-1 
 
